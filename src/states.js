@@ -1,0 +1,18 @@
+export const STATES = {
+	0: "Inactivo",
+	1: "Activo",
+	2: "Pendiente validacion inicial",
+	3: "Rechazo Inicial",
+	4: "Pagar Despues",
+	5: "Deuda 1",
+	6: "Deuda 2",
+	7: "Deuda 3",
+	8: "Preliquidacion",
+	9: "Congelado",
+	10: "Pendiente Validacion Cuota",
+	11: "Rechazo Cuota",
+	12: "Suscripcion Finalizada",
+	13: "Pendiente Validacion Migracion",
+	14: "Rechazo Migracion",
+	15: "Liquidacion",
+};
